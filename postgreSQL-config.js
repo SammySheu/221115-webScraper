@@ -5,7 +5,7 @@ const pool = new postgre.Pool( {
     database: 'userinf',
 } )
 
-pool.connect()
+// pool.connect()
 
 pool.on('connect', async function (err) {
     console.log('Connected to postgreSQL successfully');

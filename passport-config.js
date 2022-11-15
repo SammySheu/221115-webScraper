@@ -7,7 +7,6 @@ const pool = require('./postgreSQL-config');
 
 
 function functionAll(passport){
-    console.log('helloworld');
     const authenticateUser = async (email, password, done) => {
         const userFromMySQL = await getUserByEmail(email);
         if(userFromMySQL == null){

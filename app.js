@@ -31,7 +31,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(session({
   store: new RedisStore({ client: redisClient }),
-  secret: 'secret',
+  secret: `${process.env.SESSION_SECRET}`,
   resave: false,
   saveUninitialized: false,
   cookie: {
@@ -46,7 +46,6 @@ app.use( passport.initialize() );
 app.use( passport.session() );
 
 passportFunction(passport);
-console.log('helloworld');
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);

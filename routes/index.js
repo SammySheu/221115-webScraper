@@ -5,9 +5,9 @@ const flash = require('express-flash');
 const fs = require('fs/promises');
 
 /* GET home page. */
-// router.get('/', function(req, res, next) {
-//   res.render('index', { title: 'Express' });
-// });
+router.get('/', function(req, res, next) {
+  res.redirect('/login');
+});
 
 router.get('/login', checkNotAuthenticated, (req, res) => {
   res.render('login');
