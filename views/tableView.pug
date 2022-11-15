@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    h3 Hello #{name}. Here are all the results in IFSC website.
+    form(action='/logout' method='post')
+        button(type='submit') LogOut
+    table
+        each data in dataset
+            tr
+                td= data.rank
+                td= data.name
+        
