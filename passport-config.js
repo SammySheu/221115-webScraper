@@ -2,7 +2,7 @@
 const LocalStrategy = require('passport-local').Strategy;
 const bcrypt = require('bcrypt');
 const passport = require('passport');
-const postgreClient = require('./postgreSQL-config');
+const pool = require('./postgreSQL-config');
 
 
 
@@ -42,7 +42,7 @@ function functionAll(passport){
         const currentUser = async () => {
             try{
                 let sql = `SELECT * FROM userinftable WHERE email='${email}';`;
-                const found = await postgreClient.query(sql);
+                const found = await pool.query(sql);
                 // console.log(found.rows[0]);
                 return found.rows[0];
             } catch(err) {
@@ -56,7 +56,7 @@ function functionAll(passport){
         const currentUser = async () => {
             try{
                 let sql = `SELECT * FROM userinftable WHERE id='${id}';`;
-                const found = await postgreClient.query(sql);
+                const found = await pool.query(sql);
                 // console.log(found.rows[0]);
                 return found.rows[0];
             } catch(err){
