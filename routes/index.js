@@ -3,6 +3,8 @@ var router = express.Router();
 var passport = require('passport');
 const flash = require('express-flash');
 const fs = require('fs/promises');
+const postgreClient = require('../postgreSQL-config');
+const bcrypt = require('bcrypt');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -59,8 +61,8 @@ router.post('/register', checkNotAuthenticated, async (req, res) => {
       //-------------------------Insert Data in MySQL-----------------
       // let sql = `INSERT INTO userInformationTable (id, name, email, password) VALUES ("${id}", "${req.body.registUser}", "${req.body.registEmail}", "hello")`    
       let sql = `INSERT INTO userinftable (id, name, email, password) VALUES ('${id}', '${req.body.registUser}', '${req.body.registEmail}', '${hashedPassword}');`;
-      console.log(sql);    
-      await pool.query(sql)
+      // console.log(sql);
+      await postgreClient.query(sql)
           // console.log(answer);
           // console.log(sql);
 
