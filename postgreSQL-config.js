@@ -1,7 +1,7 @@
 const postgre = require('pg');
 
 const pool = new postgre.Pool( {
-    url: `${process.env.POSTGRESQL_INTERNAL_URL}`,
+    url: `${process.env.POSTGRESQL_EXTERNAL_URL}`,
     database: 'userinf',
 } )
 
