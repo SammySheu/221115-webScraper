@@ -12,5 +12,4 @@ pool.on('connect', async function (err) {
 });
 
 
-
 module.exports = pool;

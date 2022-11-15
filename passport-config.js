@@ -8,12 +8,12 @@ const pool = require('./postgreSQL-config');
 
 function functionAll(passport){
     const authenticateUser = async (email, password, done) => {
-        const userFromMySQL = await getUserByEmail(email);
-        if(userFromMySQL == null){
-            return done(null, false, {message: 'No user with that name'});
-        }
         try{
-            if( await bcrypt.compare(password, userFromMySQL.password) ){
+            const userFromMySQL = await getUserByEmail(email);
+            if(userFromMySQL == null){
+                return done(null, false, {message: 'No user with that name'});
+            }
+            else if( await bcrypt.compare(password, userFromMySQL.password) ){
                 return done(null, userFromMySQL);
             }
             else {
@@ -40,20 +40,28 @@ function functionAll(passport){
 
     function getUserByEmail(email){
         const currentUser = async () => {
-            let sql = `SELECT * FROM userinftable WHERE email='${email}';`;
-            const found = await pool.query(sql);
-            // console.log(found.rows[0]);
-            return found.rows[0];
+            try{
+                let sql = `SELECT * FROM userinftable WHERE email='${email}';`;
+                const found = await pool.query(sql);
+                // console.log(found.rows[0]);
+                return found.rows[0];
+            } catch(err) {
+                return console.log(err);
+            }
         }
         return currentUser();
     }
 
     function getUserById(id){
         const currentUser = async () => {
-            let sql = `SELECT * FROM userinftable WHERE id='${id}';`;
-            const found = await pool.query(sql);
-            // console.log(found.rows[0]);
-            return found.rows[0];
+            try{
+                let sql = `SELECT * FROM userinftable WHERE id='${id}';`;
+                const found = await pool.query(sql);
+                // console.log(found.rows[0]);
+                return found.rows[0];
+            } catch(err){
+                return console.log(err);
+            }
         }
         return currentUser();
     }
