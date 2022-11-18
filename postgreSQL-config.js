@@ -3,7 +3,7 @@ if(process.env.NODE_ENV !== 'production'){
   require('dotenv').config();
 }
 
-const connectingURL = process.env.POSTGRESQL_INTERNAL_URL;
+const connectingURL = process.env.POSTGRESQL_EXTERNAL_URL;
 const pool = new Pool( {
   connectingURL,
   user: 'root',
