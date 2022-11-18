@@ -58,16 +58,24 @@ router.post('/register', checkNotAuthenticated, async (req, res) => {
   try{
       const id = Date.now().toString();
       const hashedPassword = await bcrypt.hash(req.body.registPassword, 10);
-      //-------------------------Insert Data in MySQL-----------------
+      //-------------------------Insert Data in PostgreSQL-----------------
       // let sql = `INSERT INTO userInformationTable (id, name, email, password) VALUES ("${id}", "${req.body.registUser}", "${req.body.registEmail}", "hello")`    
-      let sql = `INSERT INTO userinftable (id, name, email, password) VALUES ('${id}', '${req.body.registUser}', '${req.body.registEmail}', '${hashedPassword}');`;
-      // console.log(sql);
-      await pool.query(sql)
-          // console.log(answer);
-          // console.log(sql);
-
-      // })
-  res.redirect('/login');
+      pool.connect()
+        .then(client => {
+            return client
+                    .query('INSERT INTO userinftable (id, name, email, password) VALUES ($1, $2, $3, $4)', ['yoyo', req.body.registUser, req.body.registEmail, hashedPassword] )
+                    .then(res => {
+                            client.query('SELECT * FROM userinftable;')
+                              .then( (show) => console.log(show.rows))
+                            client.release()
+                            console.log(res)
+                        })
+                    .catch(err => {
+                            client.release()
+                            console.log(err.stack)
+                        })
+      })
+    res.redirect('/login');
   }catch(err){
       res.redirect('/register')
       console.log(err);

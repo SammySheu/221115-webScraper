@@ -6,7 +6,7 @@ if(process.env.NODE_ENV !== 'production'){
 }
 
 const redisClient = redis.createClient({
-    url: `${process.env.REDIS_INTERNAL_URL}`,
+    url: `${process.env.REDIS_EXTERNAL_URL}`,
     legacyMode: true
 })
 
