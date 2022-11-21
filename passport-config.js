@@ -41,8 +41,8 @@ function functionAll(passport){
     async function getUserByEmail(email){
         try{
             const newClient = await pool.connect();
-            const res = await newClient.query('SELECT * FROM userinftable WHERE email = $1', [email]);
-            console.log(res);
+            const res = await newClient.query('SELECT * FROM userinfotable WHERE email = $1', [email]);
+            // console.log(res);
             newClient.release();
             return res.rows[0];
         } catch(err) {
@@ -53,8 +53,8 @@ function functionAll(passport){
     async function getUserById(id){
         try{
             const newClient = await pool.connect();
-            const res = await newClient.query('SELECT * FROM userinftable WHERE id = $1', [id]);
-            console.log(res);
+            const res = await newClient.query('SELECT * FROM userinfotable WHERE id = $1', [id]);
+            // console.log(res);
             newClient.release();
             return res.rows[0];
         } catch(err) {
@@ -62,32 +62,6 @@ function functionAll(passport){
         }
     }
 }
-    //     const currentUser = async () => {
-    //         try{
-    //             pool.connect()
-    //                 .then(client => {
-    //                     return  client.query('SELECT * FROM userinftable WHERE id = $1', [id]  )
-    //                                 .then(res => {
-    //                                         // client.query('SELECT * FROM userinftable;')
-    //                                         //     .then( (show) => console.log(show.rows))
-    //                                         client.release()
-    //                                         console.log(res.rwos[0])
-    //                                         return res.rows[0];
-    //                                     })
-    //                                 .catch(err => {
-    //                                         client.release()
-    //                                         console.log(err.stack)
-    //                                     })
-    //                         })
-    //         } catch(err){
-    //             return console.log(err);
-    //         }
-    //     }
-    //     return currentUser();
-    // }
-
-
-
 
 
 module.exports = functionAll;

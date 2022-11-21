@@ -2,8 +2,8 @@ extends layout
 
 block content
     h1 LogIn
-    if(messages.error)
-        span= messages.error
+    if(messages.error || message_success)
+        span= (messages.error || message_success)
     form(action='/login', method='post')
         p Email 
             input(type='text', id='nameID', name='email' required)

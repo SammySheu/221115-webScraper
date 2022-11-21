@@ -6,17 +6,23 @@ const fs = require('fs/promises');
 const pool = require('../postgreSQL-config');
 const bcrypt = require('bcrypt');
 
+let successMessage;
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.redirect('/login');
+  return res.redirect('/login');
 });
 
 router.get('/login', checkNotAuthenticated, (req, res) => {
-  res.render('login');
+  if(successMessage) {
+    res.render('login', {message_success: successMessage});
+    successMessage = undefined;
+  }
+  else res.render('login');
+  // successMessage = undefined;
 });
 
 router.get('/register', checkNotAuthenticated, (req, res) => {
-  res.render('register');
+  return res.render('register');
 })
 
 router.get('/table', checkAuthenticated, async (req, res) => {
@@ -60,27 +66,32 @@ router.post('/register', checkNotAuthenticated, async (req, res) => {
       const hashedPassword = await bcrypt.hash(req.body.registPassword, 10);
       //-------------------------Insert Data in PostgreSQL-----------------
       // let sql = `INSERT INTO userInformationTable (id, name, email, password) VALUES ("${id}", "${req.body.registUser}", "${req.body.registEmail}", "hello")`    
-      pool.connect()
-        .then(client => {
-            return client
-                    .query('INSERT INTO userinftable (id, name, email, password) VALUES ($1, $2, $3, $4)', ['yoyo', req.body.registUser, req.body.registEmail, hashedPassword] )
-                    .then(res => {
-                            client.query('SELECT * FROM userinftable;')
-                              .then( (show) => console.log(show.rows))
-                            client.release()
-                            console.log(res)
-                        })
-                    .catch(err => {
-                            client.release()
-                            console.log(err.stack)
-                        })
-      })
-    res.redirect('/login');
+      const newClient = await pool.connect();
+      await newClient.query('INSERT INTO userinfotable (id, name, email, password) VALUES ($1, $2, $3, $4)', [id, req.body.registUser, req.body.registEmail, hashedPassword] );
+      newClient.release();
+      successMessage = 'Succeed to register. Now log in!' ;
+
+      
+      // pool.connect()
+      //   .then(client => {
+      //       return client
+      //               .query('INSERT INTO userinfotable (id, name, email, password) VALUES ($1, $2, $3, $4)', [id, req.body.registUser, req.body.registEmail, hashedPassword] )
+      //               .then(res => {
+      //                       client.query('SELECT * FROM userinfotable;')
+      //                         .then( (show) => console.log(show.rows))
+      //                       client.release()
+      //                       console.log(res)
+      //                   })
+      //               .catch(err => {
+      //                       client.release()
+      //                       console.log(err.stack)
+      //                   })
+      // })
+      return res.redirect('/login');
   }catch(err){
       res.redirect('/register')
       console.log(err);
   }
-  // console.log(users);
 });
 
 router.post('/logout', (req, res, next) => {
