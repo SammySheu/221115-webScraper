@@ -2,9 +2,10 @@ const {Pool} = require('pg');
 if(process.env.NODE_ENV !== 'production'){
   require('dotenv').config();
 }
+// const fs = require('fs');
+
 
 // const connectingURL = process.env.POSTGRESQL_EXTERNAL_URL;
-const connectingURL = 'postgres://root:zgU2wzUeX5js7Ozd3gFlplxaolFEFQ6A@dpg-cdt64nha6gdu249fjqe0-a.oregon-postgres.render.com/myanalysisdb';
 const pool = new Pool( {
   // connectingURL,
   user: 'root',
@@ -12,7 +13,9 @@ const pool = new Pool( {
   database: process.env.POSTGRESQL_DATABASE,
   password: process.env.POSTGRESQL_PASSWORD,
   port: 5432,
-  ssl: true,
+  ssl: {
+    rejectUnauthorized : false,
+  },
 } )
 
 pool.on('error', (err) => {
