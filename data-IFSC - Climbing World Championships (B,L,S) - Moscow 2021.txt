@@ -1,0 +1,326 @@
+[
+  {
+    "rank": "1",
+    "name": "Natalia"
+  },
+  {
+    "rank": "2",
+    "name": "Camilla"
+  },
+  {
+    "rank": "3",
+    "name": "Stasa"
+  },
+  {
+    "rank": "4",
+    "name": "Elena"
+  },
+  {
+    "rank": "5",
+    "name": "Brooke"
+  },
+  {
+    "rank": "6",
+    "name": "Andrea"
+  },
+  {
+    "rank": "7",
+    "name": "Fanny"
+  },
+  {
+    "rank": "8",
+    "name": "Chloe"
+  },
+  {
+    "rank": "9",
+    "name": "Viktoriia"
+  },
+  {
+    "rank": "10",
+    "name": "Lucka"
+  },
+  {
+    "rank": "11",
+    "name": "Ayala"
+  },
+  {
+    "rank": "12",
+    "name": "Sofya"
+  },
+  {
+    "rank": "13",
+    "name": "Futaba"
+  },
+  {
+    "rank": "14",
+    "name": "Mao"
+  },
+  {
+    "rank": "15",
+    "name": "Vita"
+  },
+  {
+    "rank": "16",
+    "name": "Natsuki"
+  },
+  {
+    "rank": "17",
+    "name": "Kylie"
+  },
+  {
+    "rank": "18",
+    "name": "Elnaz"
+  },
+  {
+    "rank": "19",
+    "name": "Johanna"
+  },
+  {
+    "rank": "20",
+    "name": "Franziska"
+  },
+  {
+    "rank": "21",
+    "name": "Holly"
+  },
+  {
+    "rank": "21",
+    "name": "Afra"
+  },
+  {
+    "rank": "23",
+    "name": "Hannah"
+  },
+  {
+    "rank": "23",
+    "name": "Roxana"
+  },
+  {
+    "rank": "25",
+    "name": "Madison"
+  },
+  {
+    "rank": "25",
+    "name": "Ekaterina"
+  },
+  {
+    "rank": "27",
+    "name": "Ryu"
+  },
+  {
+    "rank": "27",
+    "name": "Eliska"
+  },
+  {
+    "rank": "29",
+    "name": "Mia"
+  },
+  {
+    "rank": "29",
+    "name": "Sienna"
+  },
+  {
+    "rank": "31",
+    "name": "Mailys"
+  },
+  {
+    "rank": "31",
+    "name": "Alma"
+  },
+  {
+    "rank": "33",
+    "name": "Jennifer"
+  },
+  {
+    "rank": "33",
+    "name": "Rahil"
+  },
+  {
+    "rank": "35",
+    "name": "Katja"
+  },
+  {
+    "rank": "35",
+    "name": "Jessica"
+  },
+  {
+    "rank": "37",
+    "name": "Ievgeniia"
+  },
+  {
+    "rank": "37",
+    "name": "Chaehyun"
+  },
+  {
+    "rank": "39",
+    "name": "Molly"
+  },
+  {
+    "rank": "39",
+    "name": "Hung Ying"
+  },
+  {
+    "rank": "41",
+    "name": "Oriane"
+  },
+  {
+    "rank": "41",
+    "name": "Emilie"
+  },
+  {
+    "rank": "43",
+    "name": "Tamara"
+  },
+  {
+    "rank": "43",
+    "name": "Margaryta"
+  },
+  {
+    "rank": "45",
+    "name": "Valentina"
+  },
+  {
+    "rank": "45",
+    "name": "Hana"
+  },
+  {
+    "rank": "47",
+    "name": "Vana"
+  },
+  {
+    "rank": "47",
+    "name": "Tara"
+  },
+  {
+    "rank": "49",
+    "name": "Mahya"
+  },
+  {
+    "rank": "49",
+    "name": "Ingrid"
+  },
+  {
+    "rank": "51",
+    "name": "Irina"
+  },
+  {
+    "rank": "51",
+    "name": "Polina"
+  },
+  {
+    "rank": "53",
+    "name": "Sunniva Eik"
+  },
+  {
+    "rank": "53",
+    "name": "Anastasija"
+  },
+  {
+    "rank": "55",
+    "name": "Thea"
+  },
+  {
+    "rank": "55",
+    "name": "Maya"
+  },
+  {
+    "rank": "55",
+    "name": "Alejandra"
+  },
+  {
+    "rank": "58",
+    "name": "Grace"
+  },
+  {
+    "rank": "59",
+    "name": "Thais Makino"
+  },
+  {
+    "rank": "59",
+    "name": "Marketa"
+  },
+  {
+    "rank": "61",
+    "name": "Noa"
+  },
+  {
+    "rank": "61",
+    "name": "Zoe"
+  },
+  {
+    "rank": "63",
+    "name": "Nika"
+  },
+  {
+    "rank": "63",
+    "name": "Aida"
+  },
+  {
+    "rank": "65",
+    "name": "Ignacia"
+  },
+  {
+    "rank": "65",
+    "name": "Hsiu-ju"
+  },
+  {
+    "rank": "65",
+    "name": "Yael"
+  },
+  {
+    "rank": "68",
+    "name": "Puntarika"
+  },
+  {
+    "rank": "69",
+    "name": "Tina Johnsen"
+  },
+  {
+    "rank": "69",
+    "name": "Agniete"
+  },
+  {
+    "rank": "71",
+    "name": "Yevheniia"
+  },
+  {
+    "rank": "71",
+    "name": "Riley"
+  },
+  {
+    "rank": "73",
+    "name": "Maryia"
+  },
+  {
+    "rank": "73",
+    "name": "Patrícia"
+  },
+  {
+    "rank": "73",
+    "name": "Assel"
+  },
+  {
+    "rank": "73",
+    "name": "Gülay"
+  },
+  {
+    "rank": "73",
+    "name": "Tetiana"
+  },
+  {
+    "rank": "78",
+    "name": "Duru Güneş"
+  },
+  {
+    "rank": "78",
+    "name": "Margarita"
+  },
+  {
+    "rank": "78",
+    "name": "Camila"
+  },
+  {
+    "rank": "78",
+    "name": "Carmen"
+  }
+]

@@ -1,334 +1,406 @@
 [
   {
     "rank": "1",
-    "name": "Janja"
+    "name": "Adam"
   },
   {
     "rank": "2",
-    "name": "Natalia"
+    "name": "Yoshiyuki"
   },
   {
     "rank": "3",
-    "name": "Andrea"
+    "name": "Tomoaki"
   },
   {
     "rank": "4",
-    "name": "Oriane"
+    "name": "Kokoro"
   },
   {
     "rank": "5",
-    "name": "Futaba"
+    "name": "Nathaniel"
   },
   {
     "rank": "6",
-    "name": "Stasa"
+    "name": "Sohta"
   },
   {
     "rank": "7",
-    "name": "Hannah"
+    "name": "Jernej"
   },
   {
     "rank": "8",
-    "name": "Fanny"
+    "name": "Alexander"
   },
   {
     "rank": "9",
-    "name": "Madison"
+    "name": "Gregor"
   },
   {
     "rank": "10",
-    "name": "Cloe"
+    "name": "Domen"
   },
   {
     "rank": "11",
-    "name": "Chaehyun"
+    "name": "Manuel"
   },
   {
     "rank": "12",
-    "name": "Brooke"
+    "name": "Mejdi"
   },
   {
     "rank": "13",
-    "name": "Camilla"
+    "name": "Sean"
   },
   {
     "rank": "14",
-    "name": "Chloe"
+    "name": "Nicolai"
   },
   {
     "rank": "15",
-    "name": "Kylie"
+    "name": "Zan"
   },
   {
     "rank": "16",
-    "name": "Ayala"
+    "name": "Ross"
   },
   {
     "rank": "17",
-    "name": "Franziska"
+    "name": "Aleksey"
   },
   {
     "rank": "18",
-    "name": "Jessica"
+    "name": "Sascha"
   },
   {
     "rank": "19",
-    "name": "Lucia"
+    "name": "Yannick"
   },
   {
-    "rank": "20",
-    "name": "Sol"
-  },
-  {
-    "rank": "21",
-    "name": "Eliska"
+    "rank": "19",
+    "name": "Nicolas"
   },
   {
     "rank": "21",
-    "name": "Flavy"
+    "name": "Rei"
+  },
+  {
+    "rank": "21",
+    "name": "Anze"
   },
   {
     "rank": "23",
-    "name": "Vita"
+    "name": "Jan"
   },
   {
     "rank": "23",
-    "name": "Sofya"
+    "name": "Jakob"
   },
   {
     "rank": "25",
-    "name": "Mia"
+    "name": "Yuta"
   },
   {
     "rank": "25",
-    "name": "Nanako"
+    "name": "Keita"
   },
   {
     "rank": "27",
-    "name": "Hana"
+    "name": "Michael"
   },
   {
     "rank": "27",
-    "name": "Miho"
+    "name": "Sergii"
   },
   {
     "rank": "29",
-    "name": "Maya"
+    "name": "Alex"
   },
   {
     "rank": "29",
-    "name": "Mia"
+    "name": "Simon"
   },
   {
     "rank": "31",
-    "name": "Molly"
+    "name": "Colin"
   },
   {
     "rank": "31",
-    "name": "Johanna"
+    "name": "Nino"
   },
   {
     "rank": "33",
-    "name": "Ievgeniia"
+    "name": "Baptiste"
   },
   {
     "rank": "33",
-    "name": "Saki"
+    "name": "Mark"
   },
   {
     "rank": "35",
-    "name": "Clothilde"
+    "name": "Julien"
   },
   {
     "rank": "35",
-    "name": "Laura"
+    "name": "Mickael"
   },
   {
     "rank": "37",
-    "name": "Liv"
+    "name": "Paul"
   },
   {
     "rank": "37",
-    "name": "Sara"
+    "name": "Nimrod"
   },
   {
     "rank": "39",
-    "name": "Lucka"
+    "name": "Sergei"
   },
   {
     "rank": "39",
-    "name": "Giorgia"
+    "name": "Pierre"
   },
   {
     "rank": "41",
-    "name": "Zélia"
+    "name": "Attila Zsombor"
   },
   {
     "rank": "41",
-    "name": "Roxana"
+    "name": "Max"
   },
   {
     "rank": "43",
-    "name": "Julija"
+    "name": "Dylan"
   },
   {
     "rank": "43",
-    "name": "Melina"
+    "name": "Vadim"
   },
   {
     "rank": "45",
-    "name": "Hannah"
+    "name": "Edvards"
   },
   {
     "rank": "45",
-    "name": "Natalie"
+    "name": "Jan-luca"
   },
   {
     "rank": "47",
-    "name": "Irina"
+    "name": "Matic"
   },
   {
     "rank": "47",
-    "name": "Katja"
+    "name": "Don"
   },
   {
     "rank": "49",
-    "name": "Naama"
+    "name": "Soma"
   },
   {
     "rank": "49",
-    "name": "Anon"
+    "name": "Filip"
   },
   {
-    "rank": "51",
-    "name": "Aida"
+    "rank": "49",
+    "name": "Geva"
   },
   {
-    "rank": "51",
-    "name": "Aleksandra"
-  },
-  {
-    "rank": "53",
-    "name": "Oceania"
+    "rank": "52",
+    "name": "Christoph"
   },
   {
     "rank": "53",
-    "name": "Alannah"
+    "name": "Benjamin"
   },
   {
-    "rank": "55",
-    "name": "Leonie"
+    "rank": "53",
+    "name": "Fedir"
   },
   {
-    "rank": "55",
-    "name": "Eva Maria"
+    "rank": "53",
+    "name": "Nils"
+  },
+  {
+    "rank": "56",
+    "name": "Tim"
   },
   {
     "rank": "57",
-    "name": "Emily"
+    "name": "Rolands"
   },
   {
     "rank": "57",
-    "name": "Mailys"
+    "name": "Fredrik"
   },
   {
     "rank": "59",
-    "name": "Maya"
+    "name": "Philipp"
   },
   {
     "rank": "59",
-    "name": "Sandra"
+    "name": "Axel"
   },
   {
-    "rank": "61",
-    "name": "Valeri"
+    "rank": "59",
+    "name": "Davide Marco"
   },
   {
-    "rank": "61",
-    "name": "Quinn"
+    "rank": "62",
+    "name": "Nimród Sebestyén"
   },
   {
-    "rank": "61",
-    "name": "Sandra"
+    "rank": "63",
+    "name": "Ties"
   },
   {
-    "rank": "64",
-    "name": "Babette"
+    "rank": "63",
+    "name": "Ram"
   },
   {
-    "rank": "64",
-    "name": "Anja"
+    "rank": "63",
+    "name": "Mikel Asier"
   },
   {
-    "rank": "64",
-    "name": "Holly"
+    "rank": "66",
+    "name": "Sergei"
   },
   {
     "rank": "67",
-    "name": "Sanja-riia"
+    "name": "Nikolai"
   },
   {
-    "rank": "68",
-    "name": "Indiana"
-  },
-  {
-    "rank": "69",
-    "name": "Ingrid"
+    "rank": "67",
+    "name": "Emil"
   },
   {
     "rank": "69",
-    "name": "Zoé"
+    "name": "Yuval"
   },
   {
     "rank": "69",
-    "name": "Jennifer"
+    "name": "Benjamin"
   },
   {
-    "rank": "72",
-    "name": "Katrine"
+    "rank": "69",
+    "name": "Kipras"
   },
   {
-    "rank": "73",
-    "name": "Yael"
-  },
-  {
-    "rank": "73",
-    "name": "Laura"
+    "rank": "69",
+    "name": "Tamás"
   },
   {
     "rank": "73",
-    "name": "Lujza"
+    "name": "Alberto"
   },
   {
-    "rank": "76",
-    "name": "Paige"
+    "rank": "74",
+    "name": "Philipp"
+  },
+  {
+    "rank": "75",
+    "name": "Hossein"
+  },
+  {
+    "rank": "75",
+    "name": "Kevin"
   },
   {
     "rank": "77",
-    "name": "Vanda"
+    "name": "Rishat"
   },
   {
     "rank": "77",
-    "name": "Rut"
+    "name": "Ludovico"
   },
   {
     "rank": "79",
-    "name": "Valentina"
+    "name": "Love Ymer"
   },
   {
     "rank": "79",
-    "name": "Regine"
+    "name": "Alejandro"
   },
   {
-    "rank": "81",
-    "name": "Elizabeth"
+    "rank": "79",
+    "name": "Louis"
   },
   {
-    "rank": "81",
-    "name": "Bianca"
+    "rank": "79",
+    "name": "Hannes"
   },
   {
     "rank": "83",
-    "name": "Doriane Mary"
+    "name": "Eduardas"
+  },
+  {
+    "rank": "84",
+    "name": "Tomas"
+  },
+  {
+    "rank": "84",
+    "name": "Rosen"
+  },
+  {
+    "rank": "86",
+    "name": "Jakub"
+  },
+  {
+    "rank": "87",
+    "name": "Ádám"
+  },
+  {
+    "rank": "87",
+    "name": "Joris"
+  },
+  {
+    "rank": "87",
+    "name": "Matteo"
+  },
+  {
+    "rank": "90",
+    "name": "Marek"
+  },
+  {
+    "rank": "91",
+    "name": "Leonid"
+  },
+  {
+    "rank": "91",
+    "name": "Matthaios"
+  },
+  {
+    "rank": "93",
+    "name": "Stephan"
+  },
+  {
+    "rank": "93",
+    "name": "Filip"
+  },
+  {
+    "rank": "93",
+    "name": "Peteris"
+  },
+  {
+    "rank": "96",
+    "name": "Lluc"
+  },
+  {
+    "rank": "97",
+    "name": "Andoni"
+  },
+  {
+    "rank": "97",
+    "name": "Pjahns"
+  },
+  {
+    "rank": "97",
+    "name": "Theofanis-ermis"
+  },
+  {
+    "rank": "100",
+    "name": "Roman"
+  },
+  {
+    "rank": "100",
+    "name": "Jim"
   }
 ]

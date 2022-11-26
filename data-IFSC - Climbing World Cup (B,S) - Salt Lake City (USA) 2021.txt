@@ -1,0 +1,198 @@
+[
+  {
+    "rank": "1",
+    "name": "Natalia"
+  },
+  {
+    "rank": "2",
+    "name": "Janja"
+  },
+  {
+    "rank": "3",
+    "name": "Brooke"
+  },
+  {
+    "rank": "4",
+    "name": "Oriane"
+  },
+  {
+    "rank": "5",
+    "name": "Stasa"
+  },
+  {
+    "rank": "6",
+    "name": "Miho"
+  },
+  {
+    "rank": "7",
+    "name": "Katja"
+  },
+  {
+    "rank": "8",
+    "name": "Kyra"
+  },
+  {
+    "rank": "9",
+    "name": "Futaba"
+  },
+  {
+    "rank": "10",
+    "name": "Fanny"
+  },
+  {
+    "rank": "11",
+    "name": "Afra"
+  },
+  {
+    "rank": "12",
+    "name": "Petra"
+  },
+  {
+    "rank": "13",
+    "name": "Camilla"
+  },
+  {
+    "rank": "14",
+    "name": "Mao"
+  },
+  {
+    "rank": "15",
+    "name": "Hannah"
+  },
+  {
+    "rank": "16",
+    "name": "Kylie"
+  },
+  {
+    "rank": "17",
+    "name": "Vita"
+  },
+  {
+    "rank": "18",
+    "name": "Akiyo"
+  },
+  {
+    "rank": "19",
+    "name": "Ryu"
+  },
+  {
+    "rank": "20",
+    "name": "Franziska"
+  },
+  {
+    "rank": "21",
+    "name": "Lucia"
+  },
+  {
+    "rank": "22",
+    "name": "Ayala"
+  },
+  {
+    "rank": "23",
+    "name": "Giorgia"
+  },
+  {
+    "rank": "24",
+    "name": "Alma"
+  },
+  {
+    "rank": "25",
+    "name": "Maya"
+  },
+  {
+    "rank": "26",
+    "name": "Chloe"
+  },
+  {
+    "rank": "27",
+    "name": "Mailys"
+  },
+  {
+    "rank": "28",
+    "name": "Sienna"
+  },
+  {
+    "rank": "29",
+    "name": "Allison"
+  },
+  {
+    "rank": "30",
+    "name": "Megan"
+  },
+  {
+    "rank": "31",
+    "name": "Laura"
+  },
+  {
+    "rank": "32",
+    "name": "Miku"
+  },
+  {
+    "rank": "33",
+    "name": "Holly"
+  },
+  {
+    "rank": "34",
+    "name": "Johanna"
+  },
+  {
+    "rank": "35",
+    "name": "Emily"
+  },
+  {
+    "rank": "36",
+    "name": "Thea"
+  },
+  {
+    "rank": "37",
+    "name": "Hannah"
+  },
+  {
+    "rank": "38",
+    "name": "Genevieve"
+  },
+  {
+    "rank": "39",
+    "name": "Jennifer"
+  },
+  {
+    "rank": "40",
+    "name": "Campbell"
+  },
+  {
+    "rank": "41",
+    "name": "Katrine"
+  },
+  {
+    "rank": "42",
+    "name": "Leonie"
+  },
+  {
+    "rank": "43",
+    "name": "Alejandra"
+  },
+  {
+    "rank": "44",
+    "name": "Naama"
+  },
+  {
+    "rank": "45",
+    "name": "Molly"
+  },
+  {
+    "rank": "46",
+    "name": "Elizabeth"
+  },
+  {
+    "rank": "47",
+    "name": "Erin"
+  },
+  {
+    "rank": "48",
+    "name": "Anouck"
+  },
+  {
+    "rank": "49",
+    "name": "Kathrine Elsig"
+  }
+]
