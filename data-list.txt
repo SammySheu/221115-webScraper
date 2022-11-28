@@ -1,0 +1,142 @@
+[
+  {
+    "fullName": "Janja Garnbret",
+    "leadRank": "1",
+    "boulderRank": "1",
+    "speedRank": "6",
+    "combinedPoint": "6"
+  },
+  {
+    "fullName": "Miho Nonaka",
+    "leadRank": "8",
+    "boulderRank": "2",
+    "speedRank": "4",
+    "combinedPoint": "64"
+  },
+  {
+    "fullName": "Akiyo Noguchi",
+    "leadRank": "3",
+    "boulderRank": "3",
+    "speedRank": "9",
+    "combinedPoint": "81"
+  },
+  {
+    "fullName": "Brooke Raboutou",
+    "leadRank": "9",
+    "boulderRank": "4",
+    "speedRank": "7",
+    "combinedPoint": "252"
+  },
+  {
+    "fullName": "Yiling Song",
+    "leadRank": "17",
+    "boulderRank": "19",
+    "speedRank": "1",
+    "combinedPoint": "323"
+  },
+  {
+    "fullName": "Chaehyun Seo",
+    "leadRank": "2",
+    "boulderRank": "12",
+    "speedRank": "19",
+    "combinedPoint": "456"
+  },
+  {
+    "fullName": "Anouck Jaubert",
+    "leadRank": "16",
+    "boulderRank": "16",
+    "speedRank": "2",
+    "combinedPoint": "512"
+  },
+  {
+    "fullName": "Kyra Condie",
+    "leadRank": "11",
+    "boulderRank": "7",
+    "speedRank": "8",
+    "combinedPoint": "616"
+  },
+  {
+    "fullName": "Laura Rogora",
+    "leadRank": "6",
+    "boulderRank": "8",
+    "speedRank": "14",
+    "combinedPoint": "672"
+  },
+  {
+    "fullName": "Jessica Pilz",
+    "leadRank": "5",
+    "boulderRank": "9",
+    "speedRank": "18",
+    "combinedPoint": "810"
+  },
+  {
+    "fullName": "Petra Klingler",
+    "leadRank": "13",
+    "boulderRank": "5",
+    "speedRank": "13",
+    "combinedPoint": "845"
+  },
+  {
+    "fullName": "Mia Krampl",
+    "leadRank": "4",
+    "boulderRank": "11",
+    "speedRank": "20",
+    "combinedPoint": "880"
+  },
+  {
+    "fullName": "Aleksandra Miroslaw",
+    "leadRank": "19",
+    "boulderRank": "18",
+    "speedRank": "3",
+    "combinedPoint": "1026"
+  },
+  {
+    "fullName": "Julia Chanourdie",
+    "leadRank": "7",
+    "boulderRank": "13",
+    "speedRank": "12",
+    "combinedPoint": "1092"
+  },
+  {
+    "fullName": "Shauna Coxsey",
+    "leadRank": "12",
+    "boulderRank": "6",
+    "speedRank": "17",
+    "combinedPoint": "1224"
+  },
+  {
+    "fullName": "Alannah Yip",
+    "leadRank": "14",
+    "boulderRank": "10",
+    "speedRank": "11",
+    "combinedPoint": "1540"
+  },
+  {
+    "fullName": "Iuliia Kaplina",
+    "leadRank": "18",
+    "boulderRank": "20",
+    "speedRank": "5",
+    "combinedPoint": "1800"
+  },
+  {
+    "fullName": "Viktoriia Meshkova",
+    "leadRank": "10",
+    "boulderRank": "14",
+    "speedRank": "16",
+    "combinedPoint": "2240"
+  },
+  {
+    "fullName": "Oceania Mackenzie",
+    "leadRank": "15",
+    "boulderRank": "15",
+    "speedRank": "10",
+    "combinedPoint": "2250"
+  },
+  {
+    "fullName": "Erin Sterkenburg",
+    "leadRank": "20",
+    "boulderRank": "17",
+    "speedRank": "15",
+    "combinedPoint": "5100"
+  }
+]

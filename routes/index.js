@@ -27,10 +27,13 @@ router.get('/register', checkNotAuthenticated, (req, res) => {
 
 router.get('/table', checkAuthenticated, async (req, res) => {
   try{
-      let dataset = await fs.readFile('./data.txt', { encoding: 'utf8' });
+      let dataset = await fs.readFile('./data-worldRank-2019.txt', { encoding: 'utf8' });
+      let lists = await fs.readFile('./data-list.txt', { encoding: 'utf8' })
+      lists = JSON.parse(lists)
       dataset = JSON.parse(dataset);
+      // console.log(dataset[0].combinedPoint);
       // console.log(req.user.user);
-      res.render('tableView', {dataset, name: req.user.name});
+      res.render('tableView', {dataset, name: req.user.name, lists});
       // res.render('tableView');
   }
   catch(err) {

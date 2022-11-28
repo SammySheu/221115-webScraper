@@ -5,8 +5,39 @@ block content
     form(action='/logout' method='post')
         button(type='submit') LogOut
     table
-        each data in dataset
+        thead
             tr
-                td= data.rank
-                td= data.name
-        
+                th(style='width: 300px') Name 
+                th(style='width: 300px') 2019's rank in Lead 
+                th(style='width: 300px') 2019's rank in Boulder 
+                th(style='width: 300px') 2019's rank in Speed 
+                th(style='width: 300px') Point in Combined System
+        each data in dataset
+            if(data.inOlympic)
+                tr
+                    td(style='color: green')= data.fullName
+                    td(style='color: green')= data.leadRank 
+                    td(style='color: green')= data.boulderRank 
+                    td(style='color: green')= data.speedRank 
+                    td(style='color: green')= data.combinedPoint
+            else 
+                tr
+                    td= data.fullName
+                    td= data.leadRank 
+                    td= data.boulderRank 
+                    td= data.speedRank 
+                    td= data.combinedPoint
+        thead(class='new')
+            tr
+                th(style='width: 300px') Name 
+                th(style='width: 300px') Prediction in Lead 
+                th(style='width: 300px') Prediction in Boulder 
+                th(style='width: 300px') Prediction in Speed 
+                th(style='width: 300px') Overall
+        each list in lists
+            tr
+                td= list.fullName
+                td= list.leadRank 
+                td= list.boulderRank 
+                td= list.speedRank 
+                td= list.combinedPoint

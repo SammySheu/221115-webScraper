@@ -2,12 +2,11 @@ const {Pool} = require('pg');
 if(process.env.NODE_ENV !== 'production'){
   require('dotenv').config();
 }
-// const fs = require('fs');
 
 
-// const connectingURL = process.env.POSTGRESQL_EXTERNAL_URL;
+
+
 const pool = new Pool( {
-  // connectingURL,
   user: 'root',
   host: process.env.POSTGRESQL_HOST,
   database: process.env.POSTGRESQL_DATABASE,

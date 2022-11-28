@@ -1,0 +1,1266 @@
+[
+  {
+    "fullName": "Janja Garnbret",
+    "leadRank": "1",
+    "boulderRank": "1",
+    "speedRank": "28",
+    "combinedPoint": "28",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Akiyo Noguchi",
+    "leadRank": "3",
+    "boulderRank": "4",
+    "speedRank": "34",
+    "combinedPoint": "408",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Miho Nonaka",
+    "leadRank": "18",
+    "boulderRank": "3",
+    "speedRank": "14",
+    "combinedPoint": "756",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Brooke Raboutou",
+    "leadRank": "19",
+    "boulderRank": "7",
+    "speedRank": "30",
+    "combinedPoint": "3990",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Chaehyun Seo",
+    "leadRank": "2",
+    "boulderRank": "31",
+    "speedRank": "73",
+    "combinedPoint": "4526",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Futaba Ito",
+    "leadRank": "23",
+    "boulderRank": "6",
+    "speedRank": "37",
+    "combinedPoint": "5106",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Laura Rogora",
+    "leadRank": "9",
+    "boulderRank": "18",
+    "speedRank": "50",
+    "combinedPoint": "8100",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Jessica Pilz",
+    "leadRank": "6",
+    "boulderRank": "21",
+    "speedRank": "68",
+    "combinedPoint": "8568",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Mia Krampl",
+    "leadRank": "4",
+    "boulderRank": "27",
+    "speedRank": "81",
+    "combinedPoint": "8748",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Lucka Rakovec",
+    "leadRank": "7",
+    "boulderRank": "20",
+    "speedRank": "70",
+    "combinedPoint": "9800",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Natalia Grossman",
+    "leadRank": "73",
+    "boulderRank": "2",
+    "speedRank": "77",
+    "combinedPoint": "11242",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Vita Lukan",
+    "leadRank": "8",
+    "boulderRank": "15",
+    "speedRank": "98",
+    "combinedPoint": "11760",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Kyra Condie",
+    "leadRank": "33",
+    "boulderRank": "13",
+    "speedRank": "33",
+    "combinedPoint": "14157",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Anouck Jaubert",
+    "leadRank": "109",
+    "boulderRank": "68",
+    "speedRank": "2",
+    "combinedPoint": "14824",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Yiling Song",
+    "leadRank": "122",
+    "boulderRank": "126",
+    "speedRank": "1",
+    "combinedPoint": "15372",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Fanny Gibert",
+    "leadRank": "21",
+    "boulderRank": "11",
+    "speedRank": "67",
+    "combinedPoint": "15477",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Julia Chanourdie",
+    "leadRank": "12",
+    "boulderRank": "40",
+    "speedRank": "42",
+    "combinedPoint": "20160",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Petra Klingler",
+    "leadRank": "48",
+    "boulderRank": "10",
+    "speedRank": "44",
+    "combinedPoint": "21120",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Ievgeniia Kazbekova",
+    "leadRank": "20",
+    "boulderRank": "14",
+    "speedRank": "76",
+    "combinedPoint": "21280",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Yuetong Zhang",
+    "leadRank": "12",
+    "boulderRank": "29",
+    "speedRank": "66",
+    "combinedPoint": "22968",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ai Mori",
+    "leadRank": "5",
+    "boulderRank": "62",
+    "speedRank": "89",
+    "combinedPoint": "27590",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Shauna Coxsey",
+    "leadRank": "37",
+    "boulderRank": "12",
+    "speedRank": "64",
+    "combinedPoint": "28416",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Elena Krasovskaia",
+    "leadRank": "54",
+    "boulderRank": "35",
+    "speedRank": "21",
+    "combinedPoint": "39690",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Jain Kim",
+    "leadRank": "11",
+    "boulderRank": "51",
+    "speedRank": "72",
+    "combinedPoint": "40392",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Di Niu",
+    "leadRank": "121",
+    "boulderRank": "84",
+    "speedRank": "4",
+    "combinedPoint": "40656",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Alannah Yip",
+    "leadRank": "56",
+    "boulderRank": "24",
+    "speedRank": "41",
+    "combinedPoint": "55104",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Aleksandra Miroslaw",
+    "leadRank": "172",
+    "boulderRank": "110",
+    "speedRank": "3",
+    "combinedPoint": "56760",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Viktoriia Meshkova",
+    "leadRank": "27",
+    "boulderRank": "41",
+    "speedRank": "61",
+    "combinedPoint": "67527",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Sandra Lettner",
+    "leadRank": "34",
+    "boulderRank": "43",
+    "speedRank": "52",
+    "combinedPoint": "76024",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Sol Sa",
+    "leadRank": "58",
+    "boulderRank": "55",
+    "speedRank": "26",
+    "combinedPoint": "82940",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Natalia Kalucka",
+    "leadRank": "126",
+    "boulderRank": "99",
+    "speedRank": "8",
+    "combinedPoint": "99792",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Nanako Kura",
+    "leadRank": "88",
+    "boulderRank": "15",
+    "speedRank": "78",
+    "combinedPoint": "102960",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ashima Shiraishi",
+    "leadRank": "22",
+    "boulderRank": "58",
+    "speedRank": "88",
+    "combinedPoint": "112288",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Andrea Rojas",
+    "leadRank": "95",
+    "boulderRank": "99",
+    "speedRank": "12",
+    "combinedPoint": "112860",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Molly Thompson-smith",
+    "leadRank": "14",
+    "boulderRank": "78",
+    "speedRank": "105",
+    "combinedPoint": "114660",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Stasa Gejo",
+    "leadRank": "113",
+    "boulderRank": "8",
+    "speedRank": "129",
+    "combinedPoint": "116616",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Patrycja Chudziak",
+    "leadRank": "145",
+    "boulderRank": "163",
+    "speedRank": "5",
+    "combinedPoint": "118175",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mei Kotake",
+    "leadRank": "15",
+    "boulderRank": "78",
+    "speedRank": "103",
+    "combinedPoint": "120510",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Aleksandra Kalucka",
+    "leadRank": "112",
+    "boulderRank": "123",
+    "speedRank": "9",
+    "combinedPoint": "123984",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Oriane Bertone",
+    "leadRank": "195",
+    "boulderRank": "5",
+    "speedRank": "129",
+    "combinedPoint": "125775",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anne-sophie Koller",
+    "leadRank": "39",
+    "boulderRank": "36",
+    "speedRank": "94",
+    "combinedPoint": "131976",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Andrea Kümin",
+    "leadRank": "72",
+    "boulderRank": "23",
+    "speedRank": "84",
+    "combinedPoint": "139104",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Andrea Kümin",
+    "leadRank": "72",
+    "boulderRank": "23",
+    "speedRank": "84",
+    "combinedPoint": "139104",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Alma Bestvater",
+    "leadRank": "94",
+    "boulderRank": "32",
+    "speedRank": "49",
+    "combinedPoint": "147392",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Afra Hönig",
+    "leadRank": "79",
+    "boulderRank": "25",
+    "speedRank": "81",
+    "combinedPoint": "159975",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Alejandra Contreras",
+    "leadRank": "50",
+    "boulderRank": "73",
+    "speedRank": "45",
+    "combinedPoint": "164250",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Elnaz Rekabi",
+    "leadRank": "41",
+    "boulderRank": "78",
+    "speedRank": "56",
+    "combinedPoint": "179088",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Oceania Mackenzie",
+    "leadRank": "75",
+    "boulderRank": "62",
+    "speedRank": "39",
+    "combinedPoint": "181350",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Giorgia Tesio",
+    "leadRank": "43",
+    "boulderRank": "33",
+    "speedRank": "129",
+    "combinedPoint": "183051",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Elizaveta Ivanova",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "6",
+    "combinedPoint": "191880",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Hung ying Lee",
+    "leadRank": "80",
+    "boulderRank": "90",
+    "speedRank": "27",
+    "combinedPoint": "194400",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Natsuki Tanii",
+    "leadRank": "10",
+    "boulderRank": "164",
+    "speedRank": "123",
+    "combinedPoint": "201720",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Chloe Caulier",
+    "leadRank": "93",
+    "boulderRank": "28",
+    "speedRank": "79",
+    "combinedPoint": "205716",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Aries Susanti rahayu",
+    "leadRank": "134",
+    "boulderRank": "164",
+    "speedRank": "10",
+    "combinedPoint": "219760",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mariia Krasavina",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "7",
+    "combinedPoint": "223860",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Katja Debevec",
+    "leadRank": "195",
+    "boulderRank": "9",
+    "speedRank": "129",
+    "combinedPoint": "226395",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Luce Douady",
+    "leadRank": "47",
+    "boulderRank": "42",
+    "speedRank": "129",
+    "combinedPoint": "254646",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anna Brozek",
+    "leadRank": "145",
+    "boulderRank": "163",
+    "speedRank": "11",
+    "combinedPoint": "259985",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Sofya Yokoyama",
+    "leadRank": "103",
+    "boulderRank": "38",
+    "speedRank": "71",
+    "combinedPoint": "277894",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lucija Tarkus",
+    "leadRank": "51",
+    "boulderRank": "44",
+    "speedRank": "129",
+    "combinedPoint": "289476",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Sienna Kopf",
+    "leadRank": "138",
+    "boulderRank": "47",
+    "speedRank": "46",
+    "combinedPoint": "298356",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Hannah Meul",
+    "leadRank": "70",
+    "boulderRank": "34",
+    "speedRank": "129",
+    "combinedPoint": "307020",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Natsumi Hirano",
+    "leadRank": "17",
+    "boulderRank": "164",
+    "speedRank": "117",
+    "combinedPoint": "326196",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Tjasa Kalan",
+    "leadRank": "16",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "338496",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Heloïse Doumont",
+    "leadRank": "28",
+    "boulderRank": "164",
+    "speedRank": "84",
+    "combinedPoint": "385728",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Valentina Aguado",
+    "leadRank": "64",
+    "boulderRank": "84",
+    "speedRank": "74",
+    "combinedPoint": "397824",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Emily Phillips",
+    "leadRank": "81",
+    "boulderRank": "61",
+    "speedRank": "84",
+    "combinedPoint": "415044",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mingwei Ni",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "13",
+    "combinedPoint": "415740",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Alex Johnson",
+    "leadRank": "84",
+    "boulderRank": "67",
+    "speedRank": "74",
+    "combinedPoint": "416472",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Johanna Färber",
+    "leadRank": "195",
+    "boulderRank": "17",
+    "speedRank": "129",
+    "combinedPoint": "427635",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Margo Hayes",
+    "leadRank": "30",
+    "boulderRank": "164",
+    "speedRank": "90",
+    "combinedPoint": "442800",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Roxana Wienand",
+    "leadRank": "77",
+    "boulderRank": "45",
+    "speedRank": "129",
+    "combinedPoint": "446985",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lan Kim",
+    "leadRank": "52",
+    "boulderRank": "105",
+    "speedRank": "83",
+    "combinedPoint": "453180",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mao Nakamura",
+    "leadRank": "195",
+    "boulderRank": "19",
+    "speedRank": "129",
+    "combinedPoint": "477945",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Aurelia Sarisson",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "15",
+    "combinedPoint": "479700",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Nurul Iqamah",
+    "leadRank": "122",
+    "boulderRank": "164",
+    "speedRank": "24",
+    "combinedPoint": "480192",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Iuliia Kaplina",
+    "leadRank": "134",
+    "boulderRank": "164",
+    "speedRank": "23",
+    "combinedPoint": "505448",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Christine Schranz",
+    "leadRank": "24",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "507744",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Elena Remizova",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "16",
+    "combinedPoint": "511680",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Eliska Adamovska",
+    "leadRank": "38",
+    "boulderRank": "107",
+    "speedRank": "129",
+    "combinedPoint": "524514",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anak Verhoeven",
+    "leadRank": "25",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "528900",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Peiyang Tian",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "17",
+    "combinedPoint": "543660",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Julia Fiser",
+    "leadRank": "26",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "550056",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lucia Dörffel",
+    "leadRank": "82",
+    "boulderRank": "52",
+    "speedRank": "129",
+    "combinedPoint": "550056",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Rong Jiang",
+    "leadRank": "101",
+    "boulderRank": "107",
+    "speedRank": "51",
+    "combinedPoint": "551157",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Franziska Sterrer",
+    "leadRank": "195",
+    "boulderRank": "22",
+    "speedRank": "129",
+    "combinedPoint": "553410",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Urska Repusic",
+    "leadRank": "148",
+    "boulderRank": "37",
+    "speedRank": "103",
+    "combinedPoint": "564028",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Capucine Viglione",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "18",
+    "combinedPoint": "575640",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Maya Madere",
+    "leadRank": "83",
+    "boulderRank": "54",
+    "speedRank": "129",
+    "combinedPoint": "578178",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Alexandra Elmer",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "19",
+    "combinedPoint": "607620",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Nina Arthaud",
+    "leadRank": "29",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "613524",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Tetiana Kolkotina",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "20",
+    "combinedPoint": "639600",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Kylie Cullen",
+    "leadRank": "195",
+    "boulderRank": "26",
+    "speedRank": "129",
+    "combinedPoint": "654030",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Camille Pouget",
+    "leadRank": "31",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "655836",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lucie Watillon",
+    "leadRank": "59",
+    "boulderRank": "103",
+    "speedRank": "109",
+    "combinedPoint": "662393",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Tina johnsen Hafsaas",
+    "leadRank": "32",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "676992",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Luiza Emeleva",
+    "leadRank": "92",
+    "boulderRank": "58",
+    "speedRank": "129",
+    "combinedPoint": "688344",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Emma Hunt",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "22",
+    "combinedPoint": "703560",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Aika Tajima",
+    "leadRank": "35",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "740460",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Eva maria Hammelmüller",
+    "leadRank": "59",
+    "boulderRank": "99",
+    "speedRank": "129",
+    "combinedPoint": "753489",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Camilla Moroni",
+    "leadRank": "195",
+    "boulderRank": "30",
+    "speedRank": "129",
+    "combinedPoint": "754650",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Salomé Romain",
+    "leadRank": "36",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "761616",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Assel Marlenova",
+    "leadRank": "195",
+    "boulderRank": "136",
+    "speedRank": "29",
+    "combinedPoint": "769080",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ayala Kerem",
+    "leadRank": "154",
+    "boulderRank": "39",
+    "speedRank": "129",
+    "combinedPoint": "774774",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Kseniia Petrova",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "25",
+    "combinedPoint": "799500",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Allison Vest",
+    "leadRank": "117",
+    "boulderRank": "56",
+    "speedRank": "129",
+    "combinedPoint": "845208",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ekaterina Kipriianova",
+    "leadRank": "95",
+    "boulderRank": "69",
+    "speedRank": "129",
+    "combinedPoint": "845595",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lana Skusek",
+    "leadRank": "40",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "846240",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mina Markovic",
+    "leadRank": "42",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "888552",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anna Zaikina",
+    "leadRank": "102",
+    "boulderRank": "70",
+    "speedRank": "129",
+    "combinedPoint": "921060",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Claudia Ghisolfi",
+    "leadRank": "44",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "930864",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anna Tsyganova",
+    "leadRank": "181",
+    "boulderRank": "164",
+    "speedRank": "32",
+    "combinedPoint": "949888",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Katharina Posch",
+    "leadRank": "45",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "952020",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Nolwenn Arc",
+    "leadRank": "46",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "973176",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lynn Van der meer",
+    "leadRank": "63",
+    "boulderRank": "120",
+    "speedRank": "129",
+    "combinedPoint": "975240",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lijuan Deng",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "31",
+    "combinedPoint": "991380",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Erin Sterkenburg",
+    "leadRank": "195",
+    "boulderRank": "89",
+    "speedRank": "59",
+    "combinedPoint": "1023945",
+    "inOlympic": true
+  },
+  {
+    "fullName": "Yuki Hiroshige",
+    "leadRank": "49",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1036644",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Maya Dreamer",
+    "leadRank": "134",
+    "boulderRank": "60",
+    "speedRank": "129",
+    "combinedPoint": "1037160",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Margarita Agambayeva",
+    "leadRank": "164",
+    "boulderRank": "126",
+    "speedRank": "53",
+    "combinedPoint": "1095192",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Franziska Ritter",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "35",
+    "combinedPoint": "1119300",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Tjasa Slemensek",
+    "leadRank": "53",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1121268",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Victoire Andrier",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "36",
+    "combinedPoint": "1151280",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Nika Potapova",
+    "leadRank": "61",
+    "boulderRank": "147",
+    "speedRank": "129",
+    "combinedPoint": "1156743",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Megan Lynch",
+    "leadRank": "195",
+    "boulderRank": "46",
+    "speedRank": "129",
+    "combinedPoint": "1157130",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Momoko Abe",
+    "leadRank": "55",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1163580",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Irina Kuzmenko",
+    "leadRank": "162",
+    "boulderRank": "57",
+    "speedRank": "129",
+    "combinedPoint": "1191186",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Julia Duffy",
+    "leadRank": "138",
+    "boulderRank": "164",
+    "speedRank": "53",
+    "combinedPoint": "1199496",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Iva Vejmolova",
+    "leadRank": "57",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1205892",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ryu Nakagawa",
+    "leadRank": "195",
+    "boulderRank": "48",
+    "speedRank": "129",
+    "combinedPoint": "1207440",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Holly Toothill",
+    "leadRank": "195",
+    "boulderRank": "48",
+    "speedRank": "129",
+    "combinedPoint": "1207440",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Callie Close",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "38",
+    "combinedPoint": "1215240",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ekaterina Barashchuk",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "39",
+    "combinedPoint": "1247220",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Mailys Piazzalunga",
+    "leadRank": "195",
+    "boulderRank": "50",
+    "speedRank": "129",
+    "combinedPoint": "1257750",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Katherine Choong",
+    "leadRank": "62",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1311672",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Jennifer Wood",
+    "leadRank": "195",
+    "boulderRank": "53",
+    "speedRank": "129",
+    "combinedPoint": "1333215",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Lirong Yan",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "42",
+    "combinedPoint": "1343160",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Aleksandra Totkova",
+    "leadRank": "65",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1375140",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Manon Hily",
+    "leadRank": "66",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1396296",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Michelle Hulliger",
+    "leadRank": "67",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1417452",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Risa Ota",
+    "leadRank": "68",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1438608",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ilaria Scolaris",
+    "leadRank": "69",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1459764",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Ina Plassoux djiga",
+    "leadRank": "70",
+    "boulderRank": "164",
+    "speedRank": "129",
+    "combinedPoint": "1480920",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Tamara Ulzhabayeva",
+    "leadRank": "185",
+    "boulderRank": "126",
+    "speedRank": "64",
+    "combinedPoint": "1491840",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Laura Stöckler",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "47",
+    "combinedPoint": "1503060",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Guizhen Xie",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "47",
+    "combinedPoint": "1503060",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Miku Ishii",
+    "leadRank": "195",
+    "boulderRank": "64",
+    "speedRank": "129",
+    "combinedPoint": "1609920",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Sabina Van essen",
+    "leadRank": "195",
+    "boulderRank": "65",
+    "speedRank": "129",
+    "combinedPoint": "1635075",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Julija Kruder",
+    "leadRank": "195",
+    "boulderRank": "66",
+    "speedRank": "129",
+    "combinedPoint": "1660230",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Haimei Qiu",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "53",
+    "combinedPoint": "1694940",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Thea Wulff",
+    "leadRank": "195",
+    "boulderRank": "71",
+    "speedRank": "129",
+    "combinedPoint": "1786005",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Katrine Vandet salling",
+    "leadRank": "195",
+    "boulderRank": "72",
+    "speedRank": "129",
+    "combinedPoint": "1811160",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Isabel Gifford",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "57",
+    "combinedPoint": "1822860",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Elisabetta Dalla brida",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "58",
+    "combinedPoint": "1854840",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Anna Calanca",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "59",
+    "combinedPoint": "1886820",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Gabrielle Tourtellotte",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "62",
+    "combinedPoint": "1982760",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Romane Fontelaye",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "63",
+    "combinedPoint": "2014740",
+    "inOlympic": false
+  },
+  {
+    "fullName": "Elena Timofeeva",
+    "leadRank": "195",
+    "boulderRank": "164",
+    "speedRank": "69",
+    "combinedPoint": "2206620",
+    "inOlympic": false
+  }
+]
